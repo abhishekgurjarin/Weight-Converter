@@ -28,7 +28,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Weight-Converter.git
+    git clone https://github.com/abhishekgurjarin/Weight-Converter.git
     ```
 
 2. **Open the project directory**:
@@ -49,7 +49,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Weight Converter [here](https://abhishekboadgurjar.github.io/Weight-Converter/).
+You can check out the live demo of the Weight Converter [here](https://abhishekgurjarin.github.io/Weight-Converter/).
 
 ## Screenshots
 ![Screenshot 2024-08-17 212727](https://github.com/user-attachments/assets/bc8e6e02-738c-4d2c-9377-43d6cd10dc30)
@@ -65,4 +65,4 @@ This project was developed as a practical application of JavaScript for user inp
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
